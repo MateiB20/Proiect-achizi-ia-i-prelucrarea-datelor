@@ -1,0 +1,25 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\Facultate\APD\Problema_propusa - Analog in multicanal\AiMultiChannel.c:49:5"
+
+[MainPanelCB]
+Class="Function"
+Prototype="int MainPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\APD\Problema_propusa - Analog in multicanal\AiMultiChannel.c:74:17"
+
+[OnStartAi]
+Class="Function"
+Prototype="int OnStartAi(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\Facultate\APD\Problema_propusa - Analog in multicanal\AiMultiChannel.c:83:17"
+
+[EveryNSamples]
+Class="Function"
+Prototype="long EveryNSamples(void *taskHandle, long everyNsamplesEventType, unsigned long nSamples, void *callbackData);"
+SourceLocation="d:\Facultate\APD\Problema_propusa - Analog in multicanal\AiMultiChannel.c:141:19"
+
+[DoneCallback]
+Class="Function"
+Prototype="long DoneCallback(void *taskHandle, long status, void *callbackData);"
+SourceLocation="d:\Facultate\APD\Problema_propusa - Analog in multicanal\AiMultiChannel.c:175:19"
+

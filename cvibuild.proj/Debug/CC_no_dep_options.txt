@@ -1,0 +1,1 @@
+-force-include-file "proj.c";"d:\1310A\proj etapa 2\proj.c" 
